@@ -1,0 +1,34 @@
+---
+title: "Politics of Juvenile Justice Presentation"
+description: |
+  Here is another sample of work I created for my Politics of Juvenile Justice Course.
+author:
+  - name: Aidan Lee 
+    url: https://www.google.com
+    affiliation: GWU Data
+    affiliation_url: https://www.google.com/GWUdata
+date: "`r Sys.Date()`"
+output: distill::distill_article
+categories:
+- Work Samples
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Below is a presentation of my research topic for this course.
+
+Expanding on my previous op-ed in my first post, I created a bill to lobby to Congress to raise the age of juvenile court jurisdiction in the U.S. among individual states. I then picked a legislator to advocate for my bill toward its hopeful passage in both houses.
+
+Here it is:
+
+![Page 1](images/1-01.png)
+
+![Page 2](images/2-01.png)
+
+![Page 3](images/3-01.png)
+
+![Page 4](images/4-01.png)
+
+![Page 5](images/5-01.png)

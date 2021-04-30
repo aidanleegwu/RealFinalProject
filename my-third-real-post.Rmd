@@ -1,0 +1,40 @@
+---
+title: "Humanitarian Assistance/International Development Law Presentation"
+description: |
+  Here is a sample of work I created for my Humanitarian Assistance/International Development Law Course.
+author:
+  - name: Aidan Lee 
+    url: https://www.google.com
+    affiliation: GWU Data
+    affiliation_url: https://www.google.com/GWUdata
+date: "`r Sys.Date()`"
+output: distill::distill_article
+categories:
+- Work Samples
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Below is a sample of a presentation I created for this course.
+
+For this project, we each designated our own topic of interest to focus on throughout the semester that pertains to the field of international development. I chose to explore the status of educational opportunities for Syrian refugees in the countries in which they sought asylum.
+
+Here it is:
+
+![Page 1](images/Screen%20Shot%202021-04-30%20at%2011.41.29%20AM.png)
+
+![Page 2](images/Screen%20Shot%202021-04-30%20at%2011.41.36%20AM.png)
+
+![Page 3](images/Screen%20Shot%202021-04-30%20at%2011.41.42%20AM.png)
+
+![Page 4](images/Screen%20Shot%202021-04-30%20at%2011.41.48%20AM.png)
+
+![Page 5](images/Screen%20Shot%202021-04-30%20at%2011.41.55%20AM.png)
+
+![Page 6](images/Screen%20Shot%202021-04-30%20at%2011.42.01%20AM.png)
+
+![Page 7](images/Screen%20Shot%202021-04-30%20at%2011.42.08%20AM.png)
+
+![Page 8](images/Screen%20Shot%202021-04-30%20at%2011.42.16%20AM.png)

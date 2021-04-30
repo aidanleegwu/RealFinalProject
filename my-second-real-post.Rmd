@@ -1,0 +1,28 @@
+---
+title: "Editorial & Persuasive Writing Virginia Governor Endorsement"
+description: |
+  Here is a sample of work I created for my Editorial & Persuasive Writing Course..
+author:
+  - name: Aidan Lee 
+    url: https://www.google.com
+    affiliation: GWU Data
+    affiliation_url: https://www.google.com/GWUdata
+date: "`r Sys.Date()`"
+output: distill::distill_article
+categories:
+- Work Samples
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Below is a sample of an editorial I wrote for this course.
+
+For this assignment, our class came to a consensus on who we as an editorial board would endorse for the Virginia Gubernatorial Race. Our class decided to endorse Ms. Jennifer Carroll Foy for Virginia Governor.
+
+Here it is:
+
+![Page 1](images/Screen%20Shot%202021-04-30%20at%2011.36.37%20AM.png)
+
+![Page 2](images/Screen%20Shot%202021-04-30%20at%2011.36.44%20AM.png)

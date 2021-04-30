@@ -1,0 +1,24 @@
+---
+title: "Skills"
+description: |
+  Here is a list of my professional skills and technical competencies.
+author:
+  - name: Aidan Lee 
+    url: https://www.google.com
+    affiliation: GWU Data
+    affiliation_url: https://www.google.com/GWUdata
+date: "`r Sys.Date()`"
+output: distill::distill_article
+categories:
+- Skills
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Here is a list of my professional skills and technological competencies:
+
+Computer/technical: Microsoft Office Suite, R Studio, InDesign, LexisNexis, CQ Federal
+
+Language: Spanish (limited working proficiency)

@@ -1,0 +1,30 @@
+---
+title: "The Global Workplace/London Internship Creative Project"
+description: |
+  Here is a sample of work I created for my Global Workplace course/internsip while studying abroad in London.
+author:
+  - name: Aidan Lee 
+    url: https://www.google.com
+    affiliation: GWU Data
+    affiliation_url: https://www.google.com/GWUdata
+date: "`r Sys.Date()`"
+output: distill::distill_article
+categories:
+- Work Samples
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Below is a database I created for this course using Excel.
+
+For my creative project, I created a sample risk assessment database for international journalists planning to create media abroad. I chose this topic while I was interning at One World Media, a non-profit organization focused on expanding the capacity of international journalists to create stories in developing countries.
+
+Here it is:
+
+![Page 1](images/Screen%20Shot%202021-04-27%20at%2010.37.59%20PM.png)
+
+![Page 2](images/Screen%20Shot%202021-04-27%20at%2010.38.29%20PM.png)
+
+![Page 3](images/Screen%20Shot%202021-04-27%20at%2010.38.57%20PM.png)

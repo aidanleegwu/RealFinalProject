@@ -1,0 +1,28 @@
+---
+title: "Politics of Juvenile Justice Op-ed"
+description: |
+  Here is a sample of work I created for my Politics of Juvenile Justice Course..
+author:
+  - name: Aidan Lee 
+    url: https://www.google.com
+    affiliation: GWU Data
+    affiliation_url: https://www.google.com/GWUdata
+date: "`r Sys.Date()`"
+output: distill::distill_article
+categories:
+- Work Samples
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Below is a sample of an op-ed I wrote for this course.
+
+The topic of the op-ed concerns the practice of transferring juvenile offenders to the adult prison system. In this op-ed, I advocate for state-wide reform to the juvenile justice system by raising the age of juvenile court jurisdiction to the age of 18.
+
+Here it is:
+
+![Page 1](images/Screen%20Shot%202021-04-30%20at%2011.30.31%20AM.png)
+
+![Page 2](images/Screen%20Shot%202021-04-30%20at%2011.30.38%20AM.png)

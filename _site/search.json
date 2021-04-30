@@ -1,0 +1,160 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About my blog",
+      "description": "Here is a collection of work samples I have created over the past few semesters as well as a list of my coursework and work experience.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-04-30T13:19:34-04:00"
+    },
+    {
+      "path": "Home.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2021-04-30T13:19:35-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Aidan's Blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-04-30T13:19:36-04:00"
+    },
+    {
+      "path": "my-fifth-real-post.html",
+      "title": "Scope and Methods of Political Science",
+      "description": "Here is a sample of work I created for my Scope and Methods of Political Science Course.\n",
+      "author": [
+        {
+          "name": "Aidan Lee",
+          "url": "https://www.google.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nBelow is a research project proposal I created for this course.\nThis research proposal centered on the topic of protectionism in U.S. foreign policy and its relationship with a reluctance among political leaders to participate in international governmental organizations.\nHere it is:\nPage 1Page 2Page 3Page 4Page 5Page 6Page 7\n\n\n",
+      "last_modified": "2021-04-30T13:19:38-04:00"
+    },
+    {
+      "path": "my-first-real-post.html",
+      "title": "Politics of Juvenile Justice Op-ed",
+      "description": "Here is a sample of work I created for my Politics of Juvenile Justice Course..\n",
+      "author": [
+        {
+          "name": "Aidan Lee",
+          "url": "https://www.google.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nBelow is a sample of an op-ed I wrote for this course.\nThe topic of the op-ed concerns the practice of transferring juvenile offenders to the adult prison system. In this op-ed, I advocate for state-wide reform to the juvenile justice system by raising the age of juvenile court jurisdiction to the age of 18.\nHere it is:\nPage 1Page 2\n\n\n",
+      "last_modified": "2021-04-30T13:19:39-04:00"
+    },
+    {
+      "path": "my-fourth-real-post.html",
+      "title": "The Global Workplace/London Internship Creative Project",
+      "description": "Here is a sample of work I created for my Global Workplace course/internsip while studying abroad in London.\n",
+      "author": [
+        {
+          "name": "Aidan Lee",
+          "url": "https://www.google.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nBelow is a database I created for this course using Excel.\nFor my creative project, I created a sample risk assessment database for international journalists planning to create media abroad. I chose this topic while I was interning at One World Media, a non-profit organization focused on expanding the capacity of international journalists to create stories in developing countries.\nHere it is:\nPage 1Page 2Page 3\n\n\n",
+      "last_modified": "2021-04-30T13:19:40-04:00"
+    },
+    {
+      "path": "my-second-real-post.html",
+      "title": "Editorial & Persuasive Writing Virginia Governor Endorsement",
+      "description": "Here is a sample of work I created for my Editorial & Persuasive Writing Course..\n",
+      "author": [
+        {
+          "name": "Aidan Lee",
+          "url": "https://www.google.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nBelow is a sample of an editorial I wrote for this course.\nFor this assignment, our class came to a consensus on who we as an editorial board would endorse for the Virginia Gubernatorial Race. Our class decided to endorse Ms. Jennifer Carroll Foy for Virginia Governor.\nHere it is:\nPage 1Page 2\n\n\n",
+      "last_modified": "2021-04-30T13:19:42-04:00"
+    },
+    {
+      "path": "my-sixth-real-post.html",
+      "title": "Politics of Juvenile Justice Presentation",
+      "description": "Here is another sample of work I created for my Politics of Juvenile Justice Course.\n",
+      "author": [
+        {
+          "name": "Aidan Lee",
+          "url": "https://www.google.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nBelow is a presentation of my research topic for this course.\nExpanding on my previous op-ed in my first post, I created a bill to lobby to Congress to raise the age of juvenile court jurisdiction in the U.S. among individual states. I then picked a legislator to advocate for my bill toward its hopeful passage in both houses.\nHere it is:\nPage 1Page 2Page 3Page 4Page 5\n\n\n",
+      "last_modified": "2021-04-30T13:19:43-04:00"
+    },
+    {
+      "path": "my-third-real-post.html",
+      "title": "Humanitarian Assistance/International Development Law Presentation",
+      "description": "Here is a sample of work I created for my Humanitarian Assistance/International Development Law Course.\n",
+      "author": [
+        {
+          "name": "Aidan Lee",
+          "url": "https://www.google.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nBelow is a sample of a presentation I created for this course.\nFor this project, we each designated our own topic of interest to focus on throughout the semester that pertains to the field of international development. I chose to explore the status of educational opportunities for Syrian refugees in the countries in which they sought asylum.\nHere it is:\nPage 1Page 2Page 3Page 4Page 5Page 6Page 7Page 8\n\n\n",
+      "last_modified": "2021-04-30T13:19:44-04:00"
+    },
+    {
+      "path": "real-experience.html",
+      "title": "Experience",
+      "description": "Here are my undergraduate work experiences and a list of courses I’ve taken at George Washington University.\n",
+      "author": [
+        {
+          "name": "Aidan Lee",
+          "url": "https://www.google.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nGlobal Risk Advisors | New York, NY September-December 2020\nResearch Analyst Intern\nConduct in-depth market research, due diligence research, open-source intelligence gathering, and geopolitical risk assessments for clients\nCreate client-facing reports and memos on relevant legislation and people of interest\nTrack and follow relevant news for use in client projects\nDykema Gossett PLLC – Government Policy Practice | Washington, D.C. September-December 2019\nLegal Assistant\nAnalyzed Congressional briefings and developed bimonthly legislative update memos for clients\nConducted research on Congressional committees and legislation to advise clients\nAttended Congressional briefings between clients and congressional offices\nCompiled contact databases for both corporate and government representatives\nOne World Media | London, UK January-March 2020\nIntern\nCreated a sample database of international risk assessments and legal restrictions for journalists\nCorresponded with journalists to recognize pieces for the One World Media Awards ceremony\nCompiled database of foundation grants for international journalism\nThe Partnership for Inner-City Education | New York, NY May-August 2018\nDevelopment Intern\nServed as an interim Academic Development Associate at Sacred Heart School in Bronx, NY\nAnalyzed admissions and scholarship data for Partnership Schools to increase enrollment\nAdvertised elementary school education to parents in New York City\nGW UNICEF | Washington D.C. 2018-present\nFundraising Team Member\n• Organized various fundraisers on campus to raise money and advocate for UNICEF, particularly women’s education and clean drinking water for all\nCOURSE LIST:\n\n\n\n\n\n\n\n\n\n\nGlobal Risk Advisors | New York, NY September-December 2020\nResearch Analyst Intern\nConduct in-depth market research, due diligence research, open-source intelligence gathering, and geopolitical risk assessments for clients\nCreate client-facing reports and memos on relevant legislation and people of interest\nTrack and follow relevant news for use in client projects\nDykema Gossett PLLC – Government Policy Practice | Washington, D.C. September-December 2019\nLegal Assistant\nAnalyzed Congressional briefings and developed bimonthly legislative update memos for clients\nConducted research on Congressional committees and legislation to advise clients\nAttended Congressional briefings between clients and congressional offices\nCompiled contact databases for both corporate and government representatives\n\nOne World Media | London, UK January-March 2020\nIntern\nCreated a sample database of international risk assessments and legal restrictions for journalists\nCorresponded with journalists to recognize pieces for the One World Media Awards ceremony\nCompiled database of foundation grants for international journalism\nThe Partnership for Inner-City Education | New York, NY May-August 2018\nDevelopment Intern\nServed as an interim Academic Development Associate at Sacred Heart School in Bronx, NY\nAnalyzed admissions and scholarship data for Partnership Schools to increase enrollment\nAdvertised elementary school education to parents in New York City\nGW UNICEF | Washington D.C. 2018-present\nFundraising Team Member\n• Organized various fundraisers on campus to raise money and advocate for UNICEF, particularly women’s education and clean drinking water for all\nCOURSE LIST:\nConstitutional Law and Politics\nPolitics of Employment and Retirement\nU.S. Foreign Policy\nExecutive Branch Politics\nCommunications Law\nHuman Rights Organizations\nInternational Security Politics\nAdvanced News Writing/Reporting\nInternational Development Law\nComparative Politics of Western Europe\n\n\n\n",
+      "last_modified": "2021-04-30T13:19:45-04:00"
+    },
+    {
+      "path": "real-skills.html",
+      "title": "Skills",
+      "description": "Here is a list of my professional skills and technical competencies.\n",
+      "author": [
+        {
+          "name": "Aidan Lee",
+          "url": "https://www.google.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nHere is a list of my professional skills and technological competencies:\nComputer/technical: Microsoft Office Suite, R Studio, InDesign, LexisNexis, CQ Federal\nLanguage: Spanish (limited working proficiency)\n\n\n\n",
+      "last_modified": "2021-04-30T13:19:46-04:00"
+    },
+    {
+      "path": "RealWelcome.html",
+      "title": "Welcome to my blog!",
+      "description": "Welcome to my new blog, Aidan's Blog. I hope you enjoy \nreading what I have to say!\n",
+      "author": [
+        {
+          "name": "Aidan Lee",
+          "url": "https://www.google.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-04-30T13:19:47-04:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

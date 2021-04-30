@@ -1,0 +1,38 @@
+---
+title: "Scope and Methods of Political Science"
+description: |
+  Here is a sample of work I created for my Scope and Methods of Political Science Course.
+author:
+  - name: Aidan Lee 
+    url: https://www.google.com
+    affiliation: GWU Data
+    affiliation_url: https://www.google.com/GWUdata
+date: "`r Sys.Date()`"
+output: distill::distill_article
+categories:
+- Work Samples
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Below is a research project proposal I created for this course.
+
+This research proposal centered on the topic of protectionism in U.S. foreign policy and its relationship with a reluctance among political leaders to participate in international governmental organizations.
+
+Here it is:
+
+![Page 1](images/1.png)
+
+![Page 2](images/2.png)
+
+![Page 3](images/3.png)
+
+![Page 4](images/4.png)
+
+![Page 5](images/5.png)
+
+![Page 6](images/6.png)
+
+![Page 7](images/7.png)

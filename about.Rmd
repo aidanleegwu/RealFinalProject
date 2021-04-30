@@ -1,0 +1,9 @@
+---
+title: "About my blog"
+description: |
+  Here is a collection of work samples I have created over the past few semesters as well as a list of my coursework and work experience.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

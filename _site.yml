@@ -1,0 +1,32 @@
+name: "RealFinalProject"
+title: "Aidan's Blog"
+description: |
+  Aidan's Blog
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: RealWelcome.html
+    - text: "About"
+      href: about.html
+    - text: "Experience"
+      href: real-experience.html
+    - text: "Skills"
+      href: real-skills.html
+    - text: "Work Samples"
+      menu: 
+        - text: "Politics of Juvenile Justice Op-ed"
+          href: my-first-real-post.html
+        - text: "Editorial & Persuasive Writing Virginia Governor Endorsement"
+          href: my-second-real-post.html
+        - text: "Humanitarian Assistance/International Development Law Presentation"
+          href: my-third-real-post.html
+        - text: "The Global Workplace/London Internship Creative Project"
+          href: my-fourth-real-post.html
+        - text: "Scope and Methods of Political Science"
+          href: my-fifth-real-post.html
+        - text: "Politics of Juvenile Justice Presentation"
+          href: my-sixth-real-post.html
+output: distill::distill_article
+collections:
+posts: 

@@ -1,0 +1,164 @@
+---
+title: "Experience"
+description: |
+  Here are my undergraduate work experiences and a list of courses I’ve taken at George Washington University.
+author:
+  - name: Aidan Lee
+    url: https://www.google.com
+    affiliation: GWU Data
+    affiliation_url: https://www.gwu.edu/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+categories:
+- Experience
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Global Risk Advisors \| New York, NY September-December 2020 
+
+*Research Analyst Intern*
+
+-   Conduct in-depth market research, due diligence research,
+    open-source intelligence gathering, and geopolitical risk
+    assessments for clients
+
+-   Create client-facing reports and memos on relevant legislation and
+    people of interest
+
+-   Track and follow relevant news for use in client projects
+
+## Dykema Gossett PLLC -- Government Policy Practice \| Washington, D.C. September-December 2019 
+
+*Legal Assistant*
+
+-   Analyzed Congressional briefings and developed bimonthly legislative
+    update memos for clients
+
+-   Conducted research on Congressional committees and legislation to
+    advise clients
+
+-   Attended Congressional briefings between clients and congressional
+    offices
+
+-   Compiled contact databases for both corporate and government
+    representatives
+
+## One World Media \| London, UK January-March 2020
+
+*Intern*
+
+-   Created a sample database of international risk assessments and
+    legal restrictions for journalists
+
+-   Corresponded with journalists to recognize pieces for the One World
+    Media Awards ceremony
+
+-   Compiled database of foundation grants for international journalism
+
+## The Partnership for Inner-City Education \| New York, NY May-August 2018 
+
+*Development Intern*
+
+-   Served as an interim Academic Development Associate at Sacred Heart
+    School in Bronx, NY
+
+-   Analyzed admissions and scholarship data for Partnership Schools to
+    increase enrollment
+
+-   Advertised elementary school education to parents in New York City
+
+## GW UNICEF \| Washington D.C. 2018-present 
+
+*Fundraising Team Member*
+
+• Organized various fundraisers on campus to raise money and advocate
+for UNICEF, particularly women's education and clean drinking water for
+all
+
+COURSE LIST:
+
+|     |     |
+|-----|-----|
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+
+## **Global Risk Advisors \| New York, NY September-December 2020**
+
+*Research Analyst Intern*
+
+-   Conduct in-depth market research, due diligence research,
+    open-source intelligence gathering, and geopolitical risk
+    assessments for clients
+
+-   Create client-facing reports and memos on relevant legislation and
+    people of interest
+
+Track and follow relevant news for use in client projects
+
+## **Dykema Gossett PLLC -- Government Policy Practice \| Washington, D.C. September-December 2019**
+
+*Legal Assistant*
+
+-   Analyzed Congressional briefings and developed bimonthly legislative
+    update memos for clients
+
+-   Conducted research on Congressional committees and legislation to
+    advise clients
+
+-   Attended Congressional briefings between clients and congressional
+    offices
+
+-   Compiled contact databases for both corporate and government
+    representatives
+
+    ## 
+
+    One World Media \| London, UK January-March 2020
+
+    *Intern*
+
+-   Created a sample database of international risk assessments and
+    legal restrictions for journalists
+
+-   Corresponded with journalists to recognize pieces for the One World
+    Media Awards ceremony
+
+-   Compiled database of foundation grants for international journalism
+
+## **The Partnership for Inner-City Education \| New York, NY May-August 2018**
+
+*Development Intern*
+
+-   Served as an interim Academic Development Associate at Sacred Heart
+    School in Bronx, NY
+
+-   Analyzed admissions and scholarship data for Partnership Schools to
+    increase enrollment
+
+-   Advertised elementary school education to parents in New York City
+
+## **GW UNICEF \| Washington D.C. 2018-present**
+
+*Fundraising Team Member*
+
+• Organized various fundraisers on campus to raise money and advocate
+for UNICEF, particularly women's education and clean drinking water for
+all
+
+#### **COURSE LIST:**
+
+| **Constitutional Law and Politics** | **Politics of Employment and Retirement**  |
+|-------------------------------------|--------------------------------------------|
+| **U.S. Foreign Policy**             | **Executive Branch Politics**              |
+| **Communications Law**              | **Human Rights Organizations**             |
+| **International Security Politics** | **Advanced News Writing/Reporting**        |
+| **International Development Law**   | **Comparative Politics of Western Europe** |
